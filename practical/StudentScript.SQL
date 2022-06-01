@@ -1,1 +1,0 @@
-SELECT * FROM c1234.student_details;
